@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android-IntentURL</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="url_Arcadia">http://www.escolaarcadia.com.br</string>
+    <string name="acao">Abre URL</string>
+</resources>
